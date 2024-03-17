@@ -1,0 +1,15 @@
+# ninja log v5
+1	181	1713955626425765101	CMakeFiles/OS_IHW1_master.dir/grade6/grade6.c.o	c8c0b73773d22317
+1	181	1713955626427501080	CMakeFiles/OS_IHW1_master.dir/grade7/grade7.c.o	d3ca5405cdbd3cf4
+1	182	1713955626425641733	CMakeFiles/OS_IHW1_master.dir/grade8/TextWorker.c.o	9b1bafe959940adc
+0	181	1713955626425809681	CMakeFiles/OS_IHW1_master.dir/grade4/main.c.o	e66467e7c2f12497
+1	180	1713955626426747250	CMakeFiles/OS_IHW1_master.dir/grade5/grade5.c.o	cadd28b25a267127
+1	28	1713955638329544968	OS_IHW1_master	636089909d5be184
+1	182	1713955626425578778	CMakeFiles/OS_IHW1_master.dir/grade8/Handler.c.o	a50b65a29e6d62be
+0	38	1713955668618929485	build.ninja	58e586c77ac407ed
+1	45	1713955671239347253	CMakeFiles/OS_IHW1_master.dir/grade8/Handler.c.o	d591099933c385b2
+0	45	1713955671240176203	CMakeFiles/OS_IHW1_master.dir/grade4/main.c.o	7e43b8569da18dad
+1	46	1713955671240442187	CMakeFiles/OS_IHW1_master.dir/grade5/grade5.c.o	a485aa19a475265b
+2	46	1713955671239907303	CMakeFiles/OS_IHW1_master.dir/grade8/TextWorker.c.o	5623351ad4493a44
+1	47	1713955671242102755	CMakeFiles/OS_IHW1_master.dir/grade7/grade7.c.o	d7f6a21a98b0dcf9
+1	48	1713955671243812944	CMakeFiles/OS_IHW1_master.dir/grade6/grade6.c.o	56894202e0725b3b
